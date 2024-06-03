@@ -1,0 +1,8 @@
+#For rust_Analyzer so that it can do autocompletion stuff
+
+[workspace]
+
+members = [
+    "Projects/guessing_game",
+    "Projects/hello_Cargo", "Projects/variables",
+]
